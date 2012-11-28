@@ -1,0 +1,18 @@
+Faire les réglages
+
+34.4 * 3 == 103.2?
+-> pourquoi?
+
+Pi
+
+FF
+
+-> boucle
+
+-> structure
+ - event
+ - master / slave
+
+-> sous-VI
+
+-> décomposition d'un DBL, combien de bit de mantisse? combien de bit d'exposant?
